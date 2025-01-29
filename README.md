@@ -1,4 +1,4 @@
-# Tableau Sales & Customer Dashboards
+# 📊 Tableau Sales & Customer Dashboards
 
 ## Overview
 This project contains a **Tableau Workbook (.twbx)** that provides interactive dashboards for analyzing sales performance and customer insights. The dashboards offer a comprehensive view of key business metrics, helping stakeholders make data-driven decisions.
